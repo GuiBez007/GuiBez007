@@ -1,8 +1,6 @@
 <div align="center">
 
-# Guilherme Bezerra
-
-### Desenvolvedor de Software
+# Desenvolvedor de Software
 
 Desenvolvimento de aplicações web, back-end e soluções envolvendo Inteligência Artificial.
 

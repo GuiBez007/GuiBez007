@@ -13,7 +13,7 @@ Desenvolvimento de aplicações web, back-end e soluções envolvendo Inteligên
 
 ## 💻 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e venho construindo minha experiência principalmente através de projetos práticos.
+Sou formado em **Análise e Desenvolvimento de Sistemas** na Fatec Santana de Parnaíba e venho construindo minha experiência principalmente através de projetos práticos.
 
 Tenho interesse em **desenvolvimento de software, aplicações web, back-end e Inteligência Artificial**, buscando transformar ideias e problemas reais em soluções funcionais.
 

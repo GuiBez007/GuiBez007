@@ -25,32 +25,34 @@ Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento de softwa
 
 ## 🚀 Tecnologias
 
+<table>
+  <tr>
+    <td valign="top" width="100%">
+
 ### Front-end
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### Back-end
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+<img src="https://img.shields.io/badge/Java-ED1B24?style=flat-square&logo=openjdk&logoColor=white" height="48" />
+
+    </td>
+    <td valign="top" width="50%">
 
 ### Banco de Dados
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" height="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="48" />
 
 ### Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,vscode" />
+
+    </td>
+  </tr>
+</table>
 
 ### Inteligência Artificial
 

@@ -4,7 +4,7 @@
 
 Desenvolvimento de aplicações web, back-end e soluções envolvendo Inteligência Artificial.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-h-b3905229b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-b-b3905229b/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://guibez007.github.io/)
 
 </div>
